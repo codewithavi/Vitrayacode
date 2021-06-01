@@ -83,7 +83,7 @@ section.ptb-50.service-section-wrap {
 
 
     }
-    
+
 
 </style>
 
@@ -141,7 +141,7 @@ section.ptb-50.service-section-wrap {
                             </li>
 
                             <li class="nav-item custom-nav-item">
-                                <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="blog.php">Blogs</a>
+                                <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="https://blog.vitrayatech.com/">Blogs</a>
                             </li>
 
                             <li class="nav-item hs-has-mega-menu custom-nav-item position-relative" data-position="center">
@@ -204,7 +204,7 @@ section.ptb-50.service-section-wrap {
         <!--services section start-->
         <section class="ptb-50 service-section-wrap" style="padding:50px;">
             <div class="container">
-               
+
                 <div class="row">
                     <div class="col-md-6 col-lg-6 p-4 my-suctom-border-right">
                            <h1 class="orange-text" style="margin-bottom: 0px;font-size: 77px; margin-bottom: 0px;">135 Days for</h1>
@@ -212,10 +212,10 @@ section.ptb-50.service-section-wrap {
                     </div>
                     <div class="col-md-6 col-lg-6 p-4 section-second-para" style="padding-left: 46px;">
                         <h4 class="orange-text" style="margin-bottom: 0px;font-size: 26px; margin-bottom: 10px;">Hospitals Get Paid  <span style="color:#2A5DB4 !important">On An Average 135 Days after Patient Discharge</span></h4>
-                            <p style="margin-bottom: 0.4rem !important;">Delayed payments from Insurance claims can significantly impact the revenue cycles and cash flows of hospitals. Payments are usually delayed due to incorrect claim documents, mismatch between documents submitted and policy rules or due to the claim being rejected. 
+                            <p style="margin-bottom: 0.4rem !important;">Delayed payments from Insurance claims can significantly impact the revenue cycles and cash flows of hospitals. Payments are usually delayed due to incorrect claim documents, mismatch between documents submitted and policy rules or due to the claim being rejected.
 </p>
 <p style="margin-bottom: 0.4rem !important;"><strong>All of which can cause a hospital to bleed.</strong></p>
-                            
+
                     </div>
                 </div>
             </div>
@@ -239,12 +239,12 @@ section.ptb-50.service-section-wrap {
         <!--call to action end-->
 
 
-        
+
 
         <!--call to action start-->
         <section class="ptb-60 my-gray-bg">
              <div class="container">
-                
+
                 <div class="row justify-content-md-center justify-content-sm-center">
                 	<div class="col-md-12 text-center">
                         <img src="https://res.cloudinary.com/dnphjjyi2/image/upload/v1622061775/vitraya/iamge.png" style="width:100%">
@@ -259,7 +259,7 @@ section.ptb-50.service-section-wrap {
         <div class="feature-section ">
             <div class="container">
                 <div class="row align-items-center justify-content-between">
-                    
+
                     <div class="col-md-6 col-lg-6 d-none d-md-block d-lg-block">
                         <div class="feature-img-wrap text-center">
                             <img src="https://res.cloudinary.com/dnphjjyi2/image/upload/v1622100923/vitraya/module_page_03.png" class="img-fluid" alt="server room">
@@ -313,8 +313,8 @@ section.ptb-50.service-section-wrap {
                 <div class="row justify-content-center">
                     <div class="col-md-10 col-lg-7">
                         <div class="section-heading text-center">
-                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom: 20px;">Trusted By Insurers</h3> 
-                           <!--  <p style="margin-bottom: 30px;">Discover how Vitraya helps hospitals, insurers and patients to lead a happy life.</p>  -->               
+                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom: 20px;">Trusted By Insurers</h3>
+                           <!--  <p style="margin-bottom: 30px;">Discover how Vitraya helps hospitals, insurers and patients to lead a happy life.</p>  -->
                         </div>
                     </div>
                 </div>
@@ -386,7 +386,7 @@ section.ptb-50.service-section-wrap {
                     <div class="col-md-12 col-lg-12">
                         <div class="section-heading text-center">
                             <h3 style="color: white;margin-bottom:0px;font-size: 32px; font-weight: 300;">Why <span style="background-color:#ef7f1b; padding:5px 10px">VITRAYA</span></h3>
-                            <p style="color:#fff; font-size: 20px;">Vitraya Technologies runs an automated clearing house system for health insurance. By using this technology system, hospitals can get cash settlements from insurers immediately upon discharge. The system does not need any separate physical invoice for raising bills. Authorizations are raised electronically and cash is instantly settled in microseconds</p>                 
+                            <p style="color:#fff; font-size: 20px;">Vitraya Technologies runs an automated clearing house system for health insurance. By using this technology system, hospitals can get cash settlements from insurers immediately upon discharge. The system does not need any separate physical invoice for raising bills. Authorizations are raised electronically and cash is instantly settled in microseconds</p>
                         </div>
                     </div>
                 </div>
@@ -397,7 +397,7 @@ section.ptb-50.service-section-wrap {
                         <div class="col-sm-6 col-md-1 col-lg-1 mb-4 mb-sm-4 mb-md-0 mb-lg-0">
                           <!--   <h6 class="font-weight-normal">Resources</h6> -->
                         </div>
-                        
+
                         <div class="col-sm-6 col-md-2 col-lg-2 mb-4 mb-sm-4 mb-md-0 mb-lg-0 my-custom-icon-box">
                             <img src="https://res.cloudinary.com/dnphjjyi2/image/upload/v1622061775/vitraya/icon_-7.png">
                             <h6 class="font-weight-normal">Instant Claim Approval</h6>
@@ -428,7 +428,7 @@ section.ptb-50.service-section-wrap {
                             <h6 class="font-weight-normal">Zero Disallowances</h6>
                             <p>Platform guarantees zero disallowances</p>
                         </div>
-                        
+
                         <div class="col-sm-6 col-md-1 col-lg-1 mb-4 mb-sm-4 mb-md-0 mb-lg-0">
                           <!--   <h6 class="font-weight-normal">Resources</h6> -->
                         </div>
@@ -542,7 +542,7 @@ section.ptb-50.service-section-wrap {
                                         <p class="white-text">Get approvals instantly and get paid in microseconds</p>
                                     </div>
                                 </div>
-                                
+
 
                             </div>
                         </div>
@@ -552,9 +552,9 @@ section.ptb-50.service-section-wrap {
         </section>
         <!--promo section end-->
 
-        
+
 <!-- <div class="container">
-	<hr style="border-radius: 1px solid gray;">	
+	<hr style="border-radius: 1px solid gray;">
 </div> -->
 
 <!-- <section class="ptb-60">
@@ -608,7 +608,7 @@ With A Smart Contract Platform?</h2>
         <section class="contact-us-section ptb-100" id="contact">
             <div class="container">
                 <div class="section-heading text-center">
-                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom: 0px;">Learn How Vitraya can help you</h3>             
+                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom: 0px;">Learn How Vitraya can help you</h3>
                         </div>
                 <div class="row">
                     <div class="col-12 pb-3 message-box d-none">
@@ -660,7 +660,7 @@ With A Smart Contract Platform?</h2>
                                     </div>
                                 </div>
                             </form>
-                            
+
                         </div>
                     </div>
 
@@ -676,7 +676,7 @@ With A Smart Contract Platform?</h2>
     <footer class="footer-1 ptb-60 gradient-bg">
         <div class="container">
             <div class="row">
-                
+
                 <div class="col-md-12 col-lg-8">
                     <div class="row mt-0">
                         <div class="col-sm-4 col-md-4 col-lg-4 mb-4 mb-sm-4 mb-md-0 mb-lg-0" style="border-right: 2px solid #2656A7;height: 180px;">

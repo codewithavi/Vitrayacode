@@ -21,9 +21,9 @@
     	background-image: url(https://res.cloudinary.com/avinish1881/image/upload/v1615791997/Vitraya/08_1_jynbt2.png);
 
     }
-    
-    
-    
+
+
+
             @media(max-width:767px){
      h1.text-white {
     text-align: center;
@@ -63,17 +63,17 @@ h2 {
     text-align: center !important;
 }
 
-    
-                
-                
-                
-                
-                
-                
+
+
+
+
+
+
+
             }
-    
-    
-    
+
+
+
 </style>
 
 <body>
@@ -130,7 +130,7 @@ h2 {
                             </li>
 
                             <li class="nav-item custom-nav-item">
-                                <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="blog.php">Blogs</a>
+                                <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="https://blog.vitrayatech.com/">Blogs</a>
                             </li>
 
                             <li class="nav-item hs-has-mega-menu custom-nav-item position-relative" data-position="center">
@@ -190,8 +190,8 @@ h2 {
                <!--  <div class="row justify-content-center">
                     <div class="col-md-10 col-lg-7">
                         <div class="section-heading text-center">
-                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom: 0px;">Case Studies</h3> 
-                            <p style="margin-bottom: 30px;">Discover how Vitraya helps hospitals, insurers and patients to lead a happy life.</p>                
+                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom: 0px;">Case Studies</h3>
+                            <p style="margin-bottom: 30px;">Discover how Vitraya helps hospitals, insurers and patients to lead a happy life.</p>
                         </div>
                     </div>
                 </div> -->
@@ -247,7 +247,7 @@ h2 {
     <footer class="footer-1 ptb-60 gradient-bg">
         <div class="container">
             <div class="row">
-                
+
                 <div class="col-md-12 col-lg-8">
                     <div class="row mt-0">
                         <div class="col-sm-4 col-md-4 col-lg-4 mb-4 mb-sm-4 mb-md-0 mb-lg-0" style="border-right: 2px solid #2656A7;height: 180px;">

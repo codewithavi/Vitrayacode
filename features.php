@@ -122,7 +122,7 @@ h2 {
                             </li>
 
                             <li class="nav-item custom-nav-item">
-                                <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="blog.php">Blogs</a>
+                                <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="https://blog.vitrayatech.com/">Blogs</a>
                             </li>
 
                             <li class="nav-item hs-has-mega-menu custom-nav-item position-relative" data-position="center">
@@ -182,12 +182,12 @@ h2 {
                         <div class="section-heading text-center">
                             <h2 style="color: #2A5DB5;margin-bottom: 0px;">At Vitraya We Solve </h2>
                             <h3 class="orange-text" style="margin-bottom: 0px;">The Challenges Hospitals Face in Claim Settlement</h3>
-                        
+
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    
+
                     <div class="ptb-80 col-md-6 col-lg-6 revenue-text" style="padding-left: 46px;">
                             <p style="margin-bottom: 0.4rem !important;">Revenue Cycle Management (RCM) is a critical component in the management of hospital ﬁnances.  With health insurance claim settlement taking on an average 135 days to settle, managing the cash ﬂows becomes difﬁcult for many hospitals. Additionally hospitals face tremendous challenges in terms of disallowed claims and issues of claim reconciliation.
 </p>
@@ -210,7 +210,7 @@ h2 {
         <!--services section start-->
         <!-- <section class="ptb-50 service-section-wrap" style="padding:50px;">
             <div class="container">
-               
+
                 <div class="row">
                     <div class="col-md-6 col-lg-6 p-4 my-suctom-border-right">
                            <h1 class="orange-text" style="margin-bottom: 0px;font-size: 77px; margin-bottom: 0px;">135 Days for</h1>
@@ -218,10 +218,10 @@ h2 {
                     </div>
                     <div class="col-md-6 col-lg-6 p-4" style="padding-left: 46px !important;">
                         <h4 class="orange-text" style="margin-bottom: 0px;font-size: 26px; margin-bottom: 10px;">Hospitals Get Paid  <span style="color:#2A5DB4 !important">On An Average 135 Days after Patient Discharge</span></h4>
-                            <p style="margin-bottom: 0.4rem !important;">Delayed payments from Insurance claims can significantly impact the revenue cycles and cash flows of hospitals. Payments are usually delayed due to incorrect claim documents, mismatch between documents submitted and policy rules or due to the claim being rejected. 
+                            <p style="margin-bottom: 0.4rem !important;">Delayed payments from Insurance claims can significantly impact the revenue cycles and cash flows of hospitals. Payments are usually delayed due to incorrect claim documents, mismatch between documents submitted and policy rules or due to the claim being rejected.
 </p>
 <p style="margin-bottom: 0.4rem !important;"><strong>All of which can cause a hospital to bleed.</strong></p>
-                            
+
                     </div>
                 </div>
             </div>
@@ -245,12 +245,12 @@ h2 {
         <!--call to action end-->
 
 
-        
+
 
         <!--call to action start-->
         <!-- <section class="ptb-60 my-gray-bg">
              <div class="container">
-                
+
                 <div class="row justify-content-md-center justify-content-sm-center">
                 	<div class="col-md-12 text-center">
                         <img src="https://res.cloudinary.com/dnphjjyi2/image/upload/v1622061775/vitraya/iamge.png" style="width:100%">
@@ -265,7 +265,7 @@ h2 {
         <div class="feature-section ">
             <div class="container">
                 <div class="row align-items-center justify-content-between">
-                    
+
                     <div class="col-md-6 col-lg-6 d-none d-md-block d-lg-block">
                         <div class="feature-img-wrap text-center">
                             <img src="https://res.cloudinary.com/dnphjjyi2/image/upload/v1622406990/vitraya/Vitraya2.jpg" class="img-fluid" alt="server room">
@@ -300,7 +300,7 @@ h2 {
                     <div class="col-md-12 col-lg-12">
                         <div class="section-heading text-center">
                             <h3 style="color: white;margin-bottom:0px;font-size: 32px; font-weight: 300;">Why <span style="background-color:#ef7f1b; padding:5px 10px">VITRAYA</span></h3>
-                            <p style="color:#fff; font-size: 20px;">Vitraya Technologies runs an automated clearing house system for health insurance. By using this technology system, hospitals can get cash settlements from insurers immediately upon discharge. The system does not need any separate physical invoice for raising bills. Authorizations are raised electronically and cash is instantly settled in microseconds</p>                 
+                            <p style="color:#fff; font-size: 20px;">Vitraya Technologies runs an automated clearing house system for health insurance. By using this technology system, hospitals can get cash settlements from insurers immediately upon discharge. The system does not need any separate physical invoice for raising bills. Authorizations are raised electronically and cash is instantly settled in microseconds</p>
                         </div>
                     </div>
                 </div> -->
@@ -308,8 +308,8 @@ h2 {
                     <div class="col-sm-12 col-md-12 col-lg-12 mb-sm-12">
                           <h3 class="font-weight-normal" style="margin-top: 50px; margin-bottom: 20px; text-align:center; color: #fff; ">Power Packed Product Features</h3>
                         </div>
-                        
-                        
+
+
                         <div class="col-sm-6 col-md-4 col-lg-4 mb-4 mb-sm-4 mb-md-0 mb-lg-0 my-custom-icon-box-org">
                             <img src="https://res.cloudinary.com/dnphjjyi2/image/upload/v1622061774/vitraya/icon_-1.png">
                             <h6 class="font-weight-normal">Automatically assess</h6>
@@ -358,8 +358,8 @@ h2 {
                             <h6 class="font-weight-normal">Integrated</h6>
                             <p>Vitraya platform integrates seamlessly with HIS allowing for quick claim documentation</p>
                         </div>
-                        
-                       
+
+
                 </div>
 
 
@@ -470,7 +470,7 @@ h2 {
                                         <p class="white-text">Get approvals instantly and get paid in microseconds</p>
                                     </div>
                                 </div>
-                                
+
 
                             </div>
                         </div>
@@ -489,12 +489,12 @@ h2 {
                         <div class="section-heading text-center">
                             <h2 style="color: #2A5DB5;margin-bottom: 0px;">Watch Vitraya In Action </h2>
                             <h3 class="" style="margin-bottom: 0px;">Watch how the world ‘s fastest healthcare settlement platform works</h3>
-                        
+
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    
+
                     <div class="ptb-40 col-md-6 col-lg-6 block-chain-para" style="padding-left: 46px;">
                             <p style="margin-bottom: 0.4rem !important;">The blockchain technology enabled Vitraya Smart Contract Platform acts as a consistent and transparent claim settlement bridge between insurers and healthcare providers.
 </p>
@@ -520,7 +520,7 @@ h2 {
                     <div class="col-md-6 col-lg-6">
                         <div class="feature-content-wrap">
                             <h2 style="color: #2A5DB5;">Vpay</h2>
-                    
+
                             <p style="font-size: 19px;">Vpay is our automatic payment system that integrates with hospital financial systems to provide instant bank credit of claimed amounts. Unlike normal claim settlements, VPay makes payment instantly within 1/Millionth of a second against each claim, provides work flows for internal approval systems as well as account reconciliation. All documented as part of our agreement with hosptials.</p>
                             <div class="action-btns mt-4">
                                 <a href="#" class="btn btn-brand-03 btn-lg">See Demo</a>
@@ -546,8 +546,8 @@ h2 {
                 <div class="row justify-content-center">
                     <div class="col-md-10 col-lg-7">
                         <div class="section-heading text-center">
-                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom: 20px;">Trusted By Insurers</h3> 
-                           <!--  <p style="margin-bottom: 30px;">Discover how Vitraya helps hospitals, insurers and patients to lead a happy life.</p>  -->               
+                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom: 20px;">Trusted By Insurers</h3>
+                           <!--  <p style="margin-bottom: 30px;">Discover how Vitraya helps hospitals, insurers and patients to lead a happy life.</p>  -->
                         </div>
                     </div>
                 </div>
@@ -599,7 +599,7 @@ h2 {
         <div class="feature-section ">
             <div class="container">
                 <div class="row">
-                    
+
                     <div class="col-md-6 col-lg-6 d-md-block d-lg-block" style="">
                         <div class="feature-img-wrap text-center">
                             <img src="https://res.cloudinary.com/dnphjjyi2/image/upload/v1622061775/vitraya/iamge_1.png" class="img-fluid" alt="server room" style="min-width: 100%;visibility: hidden;">
@@ -610,7 +610,7 @@ h2 {
                             <h2 style="color: #fff;">Secure Block Chain Enabled Transaction</h2>
                             <!-- <p style="font-size: 24px; line-height: 30px;">That's the speed of our blockchain enabled technology platform </p> -->
                             <p style="font-size: 19px; color: #fff;">A blockchain enabled smart contract platform like Vitraya enables complete transparency and consistency in reading policy rules from individual policy level data and match it with a claim submission to determine admissibility, fraud, degree of admissibility as well as settlement amounts all in a fraction of a second, in fact in 1 Millionth of a second!</p>
-                          
+
                             <div class="action-btns mt-4">
                                 <a href="#" class="btn btn-brand-03 btn-lg">Watch a Demo</a>
                             </div>
@@ -638,9 +638,9 @@ h2 {
 
 
 
-        
+
 <!-- <div class="container">
-	<hr style="border-radius: 1px solid gray;">	
+	<hr style="border-radius: 1px solid gray;">
 </div> -->
 
 <!-- <section class="ptb-60">
@@ -694,7 +694,7 @@ With A Smart Contract Platform?</h2>
         <section class="contact-us-section ptb-100" id="contact">
             <div class="container">
                 <div class="section-heading text-center">
-                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom: 0px;">Learn How Vitraya can help you</h3>             
+                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom: 0px;">Learn How Vitraya can help you</h3>
                         </div>
                 <div class="row">
                     <div class="col-12 pb-3 message-box d-none">
@@ -746,7 +746,7 @@ With A Smart Contract Platform?</h2>
                                     </div>
                                 </div>
                             </form>
-                            
+
                         </div>
                     </div>
 
@@ -762,7 +762,7 @@ With A Smart Contract Platform?</h2>
     <footer class="footer-1 ptb-60 gradient-bg">
         <div class="container">
             <div class="row">
-                
+
                 <div class="col-md-12 col-lg-8">
                     <div class="row mt-0">
                         <div class="col-sm-4 col-md-4 col-lg-4 mb-4 mb-sm-4 mb-md-0 mb-lg-0" style="border-right: 2px solid #2656A7;height: 180px;">

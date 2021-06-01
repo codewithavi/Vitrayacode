@@ -73,7 +73,7 @@ h2 {
 
 
     }
-    
+
     li.contact-flex.py-3 {
     display: inline-flex;
     line-height: 21px;
@@ -134,7 +134,7 @@ h2 {
                             </li>
 
                             <li class="nav-item custom-nav-item">
-                                <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="blog.php">Blogs</a>
+                                <a id="homeMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="https://blog.vitrayatech.com/">Blogs</a>
                             </li>
 
                             <li class="nav-item hs-has-mega-menu custom-nav-item position-relative" data-position="center">
@@ -192,8 +192,8 @@ h2 {
                 <div class="row justify-content-center">
                     <div class="col-md-12 col-lg-12">
                         <div class="section-heading text-left">
-                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom:0px;">Contact</h3> 
-                           <p style="margin-bottom: 30px;">Use the form below to send us a quick email with questions or feedback</p>             
+                            <h3 style="color: #2A5DB5;font-size: 40px;margin-bottom:0px;">Contact</h3>
+                           <p style="margin-bottom: 30px;">Use the form below to send us a quick email with questions or feedback</p>
                         </div>
                     </div>
                 </div>
@@ -235,8 +235,8 @@ h2 {
                                             <input type="text" class="form-control" name="Select_Your_City" placeholder="Mobile" required="required">
                                         </div>
                                     </div>
-                                    
-                                    
+
+
                                     <div class="col-md-12 col-12">
                                         <div class="form-group">
                                             <textarea name="message" id="message" class="form-control" rows="5" cols="25" placeholder="Write your message here..."></textarea>
@@ -249,14 +249,14 @@ h2 {
                                     </div>
                                 </div>
                             </form>
-                            
+
                         </div>
                     </div>
 
 
                     <div class="col-md-4 col-lg-4">
                         <div class="position-relative">
-                            <h3 style="color: #2A5DB5;font-size: 31px;margin-bottom:0px;">Vitraya Technologies Private Limited</h3> 
+                            <h3 style="color: #2A5DB5;font-size: 31px;margin-bottom:0px;">Vitraya Technologies Private Limited</h3>
                             <ul class="contact-info-list mt-3">
                                     <li class="contact-flex py-3">
                                         <div class="contact-icon mr-3">
@@ -282,18 +282,18 @@ h2 {
                                     </li>
                                 </ul>
                                 <br>
-                                <h3 style="color: #2A5DB5;font-size: 31px;margin-bottom:0px;">Follow us</h3> 
+                                <h3 style="color: #2A5DB5;font-size: 31px;margin-bottom:0px;">Follow us</h3>
                                 <ul class="list-inline social-list-default background-color social-hover-2 mt-2">
                                     <li class="list-inline-item"><a class="" href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li class="list-inline-item"><a class="" href="#"><i class="fab fa-youtube"></i></a></li>
                                     <li class="list-inline-item"><a class="" href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                     <li class="list-inline-item"><a class="" href="#"><i class="fab fa-facebook"></i></a></li>
                                 </ul>
-                            
+
                         </div>
                     </div>
 
-                    
+
 
                 </div>
             </div>
@@ -307,7 +307,7 @@ h2 {
     <footer class="footer-1 ptb-60 gradient-bg">
         <div class="container">
             <div class="row">
-                
+
                 <div class="col-md-12 col-lg-8">
                     <div class="row mt-0">
                         <div class="col-sm-4 col-md-4 col-lg-4 mb-4 mb-sm-4 mb-md-0 mb-lg-0" style="border-right: 2px solid #2656A7;height: 180px;">

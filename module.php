@@ -230,7 +230,7 @@ section.ptb-50.service-section-wrap {
                     </div>
                     <div class="col-md-4 col-lg-4">
                             <div class="action-btns mt-4">
-                                <a href="#" class="btn btn-brand-03 btn-lg" style="margin-top: -12px !important; background-color: #ffffff !important; border-color: #ffffff !important; color: #F58220 !important;">Read Case Study</a>
+                                <a href="case.php" class="btn btn-brand-03 btn-lg" style="margin-top: -12px !important; background-color: #ffffff !important; border-color: #ffffff !important; color: #F58220 !important;">Read Case Study</a>
                             </div>
                     </div>
                 </div>

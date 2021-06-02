@@ -23654,7 +23654,7 @@ a.close.disabled {
 @media (max-width: 767px) {
   /* line 147, src/assets/scss/components/_components.header.scss */
   .bg-transparent .header-nav #navBar.navbar-collapse, .gradient-bg .header-nav #navBar.navbar-collapse {
-    background: linear-gradient(75deg, #0948b3 10%, #1062fe) !important;
+    background: white !important;
   }
   /* line 150, src/assets/scss/components/_components.header.scss */
   .bg-transparent .header-nav #navBar.navbar-collapse, .gradient-bg .header-nav #navBar.navbar-collapse {

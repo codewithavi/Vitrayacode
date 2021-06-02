@@ -767,18 +767,18 @@ With A Smart Contract Platform?</h2>
                     <div class="row mt-0">
                         <div class="col-sm-4 col-md-4 col-lg-4 mb-4 mb-sm-4 mb-md-0 mb-lg-0" style="border-right: 2px solid #2656A7;height: 180px;">
                             <ul>
-                                <li>
-                                    <a href="#">Features</a>
-                                </li>
-                                <li>
-                                    <a href="#">Modules</a>
-                                </li>
-                                <li>
-                                    <a href="#">Case Studies</a>
-                                </li>
-                                <li>
-                                    <a href="#">Blogs</a>
-                                </li>
+                              <li>
+                                  <a href="features.php">Features</a>
+                              </li>
+                              <li>
+                                  <a href="module.php">Modules</a>
+                              </li>
+                              <li>
+                                  <a href="case.php">Case Studies</a>
+                              </li>
+                              <li>
+                                  <a href="https://blog.vitrayatech.com/">Blogs</a>
+                              </li>
                                 <li>
                                     <a href="#">About</a>
                                 </li>

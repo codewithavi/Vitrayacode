@@ -340,7 +340,7 @@ h2 {
                 <div class="row">
                     <div class="col-md-6 col-lg-6 p-4">
                         <a href="https://res.cloudinary.com/codewithavi/video/upload/v1622546526/Vitraya_Video_txl3rv.mp4">
-                           <img src="https://res.cloudinary.com/avinish1881/image/upload/v1615791998/Vitraya/1_Millionth_of_a_Second_vsbkmx.png" style="width: 100%;">
+                           <img src="https://res.cloudinary.com/codewithavi/image/upload/v1622619686/Screenshot_2021-06-01_at_5.32.15_PM_1_glvquj.png" style="width: 100%;">
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-6 p-4  millionth-text" style="padding-left: 46px;">

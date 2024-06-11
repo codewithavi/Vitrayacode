@@ -183,7 +183,7 @@ h2 {
                     	<div class="pt-2 pb-3">
                             <div style="display: flex;margin-left: -21px;margin-bottom: -11px;">
                             	<img src="https://res.cloudinary.com/avinish1881/image/upload/v1615791997/Vitraya/08_1_jynbt2.png" height="60px">
-                            	<h5 class="healthcare-claim" style="width: 300px;margin-left: -30px;margin-top: 5.5px;">Policy Holder</h5>
+                            	<h5 class="healthcare-claim" style="width: 300px;margin-left: -30px;margin-top: 5.5px;">Policy</h5>
                             </div>
                             <div class="healthcare-box">
                             	<div class="heathclaim-care" style="display: inline-flex; margin-top: 40px;">
